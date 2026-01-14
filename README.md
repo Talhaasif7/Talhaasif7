@@ -66,29 +66,8 @@ I’m passionate about **clean architecture, scalable systems, and AI-driven pro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 
----
 
-## 🧠 Featured Projects
 
-### 🔹 Muwakkil — AI Legal Compliance Platform
-**React • Supabase • AI/ML**
-- AI-powered legal compliance assistant for UAE founders
-- Built **ML pipelines** for document review & clause detection
-- Processed **500+ documents weekly**
-- Jurisdiction-specific templates (DIFC, Free Zones, Mainland)
-
-### 🔹 MindTrack AI — Mental Health Analytics
-**Next.js • AI/ML**
-- AI-powered mood tracking & mental health insights
-- Real-time sentiment & trigger detection
-- **HIPAA-compliant**, end-to-end encrypted
-- Served **1,000+ users**
-
-### 🔹 Velric.ai — Assignment Evaluation System
-**Next.js • Supabase • AI Backend**
-- Automated AI scoring & structured feedback
-- Optimized workflows for **2,000+ users**
-- Improved scalability & backend performance
 
 ---
 
