@@ -1,24 +1,120 @@
-# 💫 About Me:
-🔭 Currently immersed in the MERN Stack, focusing on innovative web development projects.<br><br>🌱 Continuously expanding skill sets and knowledge base to stay ahead in the ever-evolving tech landscape.<br><br>👯 Seeking collaborations in Agile Development methodologies to foster efficient and adaptable software solutions.<br><br>💬 Passionate about sharing insights and experiences from my coding journey.<br><br>📫 Connect with me on LinkedIn for professional inquiries and networking opportunities.<br><br>🤝 Currently seeking assistance and guidance with certain aspects of my projects.<br><br>🚀 Exploring opportunities and seeking support in building my own company.
+# 👋 Hi, I'm Talha Asif
 
+**Full Stack Engineer | MERN • Next.js • AI-powered Systems**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mtalha.asif.315) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this_is_talha_asif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talha-asif-796888210/) 
+I’m a results-driven **Full Stack Engineer** with **1+ year of hands-on experience** building and scaling production-grade web applications using **MongoDB, Express, React, Node.js, and Next.js**.  
+I’ve worked with **global remote teams**, contributed to **AI-powered platforms**, and actively participate in **international hackathons and competitive programming**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Talhaasif7&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Talhaasif7&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaasif7&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I’m passionate about **clean architecture, scalable systems, and AI-driven product development**, and I enjoy mentoring, knowledge sharing, and solving complex engineering problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Talhaasif7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I’m Currently Doing
+- 🔭 Building **production-ready full-stack & AI-powered applications**
+- 🤖 Integrating **AI/ML pipelines** into real-world products
+- 🌱 Deepening skills in **system design, performance optimization & cloud**
+- 🤝 Open to **collaborations, startups, and impactful engineering roles**
+
+---
+
+## 💼 Experience Snapshot
+
+**Full Stack Engineer — Velric (Remote, USA)**  
+*Sep 2025 – Dec 2025*  
+- Built and optimized an **AI-driven assignment submission & evaluation system**
+- Served **2,000+ active users** with scalable backend workflows
+- Integrated **automated AI scoring & structured feedback**
+- Improved performance through optimized queries and backend logic
+
+**Software Engineer Fellow — Dev Weekends**  
+*Jun 2025 – Sep 2025*  
+- Completed **30+ DSA sessions & 12+ engineering grind sessions**
+- Built multiple **MERN-based platforms** (LMS, E-commerce, School Systems)
+- Developed a **React Native expense tracking app**
+- Gained strong exposure to **system fundamentals & real-world engineering**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+### Tools & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS_Basics-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 Muwakkil — AI Legal Compliance Platform
+**React • Supabase • AI/ML**
+- AI-powered legal compliance assistant for UAE founders
+- Built **ML pipelines** for document review & clause detection
+- Processed **500+ documents weekly**
+- Jurisdiction-specific templates (DIFC, Free Zones, Mainland)
+
+### 🔹 MindTrack AI — Mental Health Analytics
+**Next.js • AI/ML**
+- AI-powered mood tracking & mental health insights
+- Real-time sentiment & trigger detection
+- **HIPAA-compliant**, end-to-end encrypted
+- Served **1,000+ users**
+
+### 🔹 Velric.ai — Assignment Evaluation System
+**Next.js • Supabase • AI Backend**
+- Automated AI scoring & structured feedback
+- Optimized workflows for **2,000+ users**
+- Improved scalability & backend performance
+
+---
+
+## 🏆 Achievements & Hackathons
+- 🌍 Participated in **5+ LABLAB AI international hackathons**
+- 🚀 **NASA Space Apps Challenge** — Weather Prediction App
+- 🧠 **Meta Hacker Cup** — Qualified Round 1
+- 🥇 **CALICO** — 6th in Pakistan, 45th globally
+- 🎓 **MIT IT Contest** — Ranked among international participants
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Talhaasif7&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Talhaasif7&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaasif7&theme=radical&layout=compact&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talha-asif-796888210/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/this_is_talha_asif)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/mtalha.asif.315)
+
+---
+
+> 💡 *I’m always open to impactful collaborations, startup ideas, and engineering challenges that push boundaries.*
+
+[![](https://visitcount.itsvg.in/api?id=Talhaasif7&icon=0&color=0)](https://visitcount.itsvg.in)
