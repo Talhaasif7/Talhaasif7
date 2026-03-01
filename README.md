@@ -26,6 +26,16 @@ I’m passionate about **clean architecture, scalable systems, and AI-driven pro
 - Integrated **automated AI scoring & structured feedback**
 - Improved performance through optimized queries and backend logic
 
+**Software Engineer — 10Pearls (Remote)**  
+*Dec 2025 – Feb 2026*  
+- Developed a **Notion-style note-taking application** using the MERN stack  
+- Architected a **modular, scalable multi-file codebase** with clean folder structure  
+- Built RESTful APIs and optimized database schemas for performance  
+- Implemented deterministic unit and integration tests using Mocha and Chai  
+- Integrated SonarQube for static code quality enforcement  
+- Implemented structured logging using Pino for improved observability  
+- Contributed to Docker-based reproducible development workflows  
+
 **Software Engineer Fellow — Dev Weekends**  
 *Jun 2025 – Sep 2025*  
 - Completed **30+ DSA sessions & 12+ engineering grind sessions**
@@ -66,9 +76,6 @@ I’m passionate about **clean architecture, scalable systems, and AI-driven pro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 
-
-
-
 ---
 
 ## 🏆 Achievements & Hackathons
@@ -89,7 +96,6 @@ I’m passionate about **clean architecture, scalable systems, and AI-driven pro
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talha-asif-796888210/)
-
 
 ---
 
