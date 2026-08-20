@@ -134,15 +134,6 @@ I'm especially interested in roles where I can contribute to both **research and
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaAsif7&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAsif7&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
 ## Connect
 
 - LinkedIn: [talha-asif7](https://www.linkedin.com/in/talha-asif7/)
