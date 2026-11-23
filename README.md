@@ -1,145 +1,82 @@
+
 # Talha Asif
 
-### AI Research Engineer · Full-Stack Engineer · Open Source Contributor
+**AI Research Engineer · Full-Stack Engineer · Open-Source Contributor**
 
-I build AI systems that are designed to work beyond the notebook.
+I'm a Computer Science student at the University of Lahore, Pakistan, working at the intersection of AI research and software engineering.
 
-My background started in full-stack engineering, but my work has increasingly moved toward **AI/ML, NLP, LLM evaluation, multi-agent systems, and reliable AI infrastructure**.
+I started in full-stack development and gradually moved toward research on how AI systems reason, use tools, and behave outside controlled experiments. I enjoy the full process: understanding a problem, building a solution, testing where it fails, and improving it.
 
-I'm interested in problems at the intersection of **AI research and real-world engineering** — taking an idea from research and experimentation to implementation, evaluation, and production.
+My current interests include **reinforcement learning, LLM agents, scalable multi-agent systems, and trustworthy and efficient AI**. I'm particularly interested in evaluation: not just whether a model gives a good answer, but whether its decisions are reliable and useful in practice.
 
----
+## Research and Open Source
 
-## Research Interests
+**University of Illinois Urbana-Champaign (UIUC) — Research Intern**
 
-- Large Language Models (LLMs)
-- LLM Evaluation & AI Measurement
-- LLM-as-a-Judge
-- Benchmark Design
-- Multi-Agent Systems
-- NLP & Deep Learning
-- Model Fine-Tuning
-- Agentic AI Reliability
-- ML Algorithm Optimization
-- Distributed AI Systems
+Contributed a Kubernetes DNS failure scenario to [SREGym](https://github.com/SREGym/SREGym/pull/960), including fault injection and end-to-end recovery checks for evaluating AI agents in site reliability engineering.
 
-I'm particularly interested in understanding not only how capable an AI system is, but **how we can reliably measure and evaluate its behavior.**
+**Norwegian University of Science and Technology (NTNU) — Research**
 
----
+Worked on multilingual reinforcement learning for fact verification, with an emphasis on how models use evidence across languages.
 
-## Engineering
+**Google Summer of Code 2026 — Drupal Association**
 
-I enjoy building scalable systems around AI and distributed applications.
+Built an AI-assisted content moderation workflow combining rule-based checks, model predictions, decision thresholds, human review, and audit logging.
 
-**Backend & Full Stack**
-- Python, FastAPI
-- TypeScript, Node.js, Express
-- React, Next.js
-- MERN Stack
+[View GSoC Project](https://summerofcode.withgoogle.com/programs/2026/projects/C09HAZpF)
 
-**AI / ML**
-- PyTorch
-- Transformers
-- NLP
-- LLMs
-- RAG
-- LangChain
-- LangGraph
-- LoRA / Fine-Tuning
+**Social Summer of Code 2026**
 
-**Systems & Infrastructure**
-- Docker
-- AWS
-- Redis
-- MongoDB
-- PostgreSQL
-- Microservices
-- System Design
-- Distributed Systems
+Contributed to production software across API security, audit logs, localization, filtering, pagination, and user-facing features.
 
-I focus less on collecting technologies and more on understanding **how the systems behind them work.**
+I've also worked on research involving **energy- and calibration-aware model selection for NLP**, as part of a broader interest in evaluating the trade-offs behind model performance.
 
----
-
-## Open Source
-
-### Google Summer of Code 2026 — Drupal
-
-Contributing to Drupal through GSoC 2026, where I engineered an **AI-powered content moderation module** designed to move moderation toward a more proactive and real-time approach.
-
-### Social Summer of Code 2026
-
-Contributing to production software involving API security, AI audit logs, localization, server-side filtering, pagination, and user-facing features.
-
-I believe open source is one of the best ways to learn engineering — by building real software with people from around the world.
-
----
-
-## Experience
+## Engineering Experience
 
 **Software Engineer — 10Pearls**
+
 - Improved API response times by 25% through schema optimization and structured logging.
 - Helped achieve 90% test coverage and introduced automated code-quality practices.
 - Containerized development environments using Docker.
 
 **Full-Stack Engineer — Velric**
-- Built an end-to-end assignment system with AI-powered evaluation and automated scoring.
-- Optimized backend logic and database queries for better scalability.
-- Built real-time feedback workflows supporting 2,000+ users.
 
----
+- Built an assignment platform with AI-assisted evaluation and scoring.
+- Improved backend logic and database queries for better scalability.
+- Built real-time feedback workflows supporting more than 2,000 users.
 
-## Achievements
+## What I Work With
 
-- 2× CS50x Puzzle Day Winner @ Harvard — 2025 & 2026
-- Google Summer of Code 2026 — Drupal
-- Social Summer of Code 2026
-- AWS AI/ML Scholar
-- DevWeekends Bronze Fellow
-- NASA Space Apps Challenge 2025 — Global Hackathon Participant
-- Finalist / Top Finishes in 5+ International Hackathons
-- 250+ LeetCode Problems Solved
+| Area | Tools and Technologies |
+| --- | --- |
+| **AI / ML** | Python, PyTorch, Transformers, NLP, LLMs, RAG, LangChain, LangGraph, LoRA |
+| **Backend** | FastAPI, Node.js, Express, REST APIs |
+| **Frontend** | TypeScript, React, Next.js |
+| **Infrastructure & Data** | Docker, AWS, Redis, MongoDB, PostgreSQL, Distributed Systems |
 
----
+I don't see tools as a checklist. I'm most interested in choosing the right ones, understanding their limitations, and making the resulting system dependable.
 
-## Currently Exploring
+## A Few Milestones
 
-I'm currently going deeper into:
+- **Google Summer of Code 2026** — Drupal Association
+- **CS50x Puzzle Day** — Winner in 2025 and 2026
+- **AWS AI/ML Scholar** and **DevWeekends Bronze Fellow**
+- **NASA Space Apps Challenge 2025** — Participant
+- **5+ International Hackathons** — Finalist or strong placements
+- **250+ LeetCode Problems** solved
 
-**AI Evaluation → Agentic Systems → Distributed AI Infrastructure**
+## What's Next
 
-The goal isn't just to build increasingly capable AI systems.
+I'm interested in **research assistantships, research internships, graduate research opportunities, and remote engineering roles** where I can contribute to LLM agents, AI evaluation, reliable systems, or applied machine learning.
 
-It's to understand:
-
-> **How do we know when an AI system is actually reliable?**
-
----
-
-## Currently Seeking
-
-I'm currently seeking **remote engineering roles** as well as **graduate-level opportunities and research positions**, including **Research Assistant (RA) / Research Intern (RI)** roles.
-
-I'm particularly interested in opportunities involving:
-
-- AI / ML Engineering
-- LLMs & NLP
-- LLM Evaluation & AI Measurement
-- Agentic & Multi-Agent Systems
-- AI Infrastructure
-- Distributed AI Systems
-- ML Research & Applied AI
-
-I'm especially interested in roles where I can contribute to both **research and real-world engineering** — building systems, running experiments, evaluating models, and turning ideas into reliable AI solutions.
-
----
+If you're working on a problem where research needs to become a system people can actually trust and use, I'd be glad to connect.
 
 ## Connect
 
-- LinkedIn: [talha-asif7](https://www.linkedin.com/in/talha-asif7/)
-- Portfolio: [talha-asif-showcase.vercel.app](https://talha-asif-showcase.vercel.app/)
-- Email: [talhaasif565@gmail.com](mailto:talhaasif565@gmail.com)
+- **Portfolio:** [talha-asif-showcase.vercel.app](https://talha-asif-showcase.vercel.app/)
+- **LinkedIn:** [talha-asif7](https://www.linkedin.com/in/talha-asif7/)
+- **Email:** [talhaasif565@gmail.com](mailto:talhaasif565@gmail.com)
 
 ---
 
-> Build → Measure → Learn → Repeat.
+*Build it. Test it. Understand where it fails. Improve it.*
